@@ -1,4 +1,5 @@
-# SST60
+# SST60-olsweepy
+This repo is a fork and mod of dededecline/SST60! Below renders are from his original design.
 
 ## Hotswap
 Looking for hotswap? See [here](https://github.com/dededecline/SST60/tree/main/Hotswap)
@@ -23,4 +24,5 @@ Looking for hotswap? See [here](https://github.com/dededecline/SST60/tree/main/H
 - Flex meme cuts
 
 ## ***DISCLAIMER***
+Note: the below claim is not yet applicable for this fork.
 This PCB has been tested and confirmed to work properly. The members of the PCB development team are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
