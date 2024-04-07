@@ -6264,7 +6264,7 @@
 		)
 		(fp_arc
 			(start 40.316512 44.575)
-			(mid 41.488415 42.89505)
+			(mid 41.488417 42.895045)
 			(end 43.432509 42.249999)
 			(stroke
 				(width 0.2)
@@ -6275,7 +6275,7 @@
 		)
 		(fp_arc
 			(start 43.432509 -47.299996)
-			(mid 41.488431 -47.945059)
+			(mid 41.48841 -47.94505)
 			(end 40.316512 -49.624993)
 			(stroke
 				(width 0.2)
@@ -6286,7 +6286,7 @@
 		)
 		(fp_arc
 			(start 43.686507 -47.299996)
-			(mid 43.96415 -47.245156)
+			(mid 43.964139 -47.245144)
 			(end 44.199507 -47.088006)
 			(stroke
 				(width 0.2)
@@ -6297,7 +6297,7 @@
 		)
 		(fp_arc
 			(start 44.189513 42.047)
-			(mid 43.96505 42.19677)
+			(mid 43.96505 42.196759)
 			(end 43.700514 42.249999)
 			(stroke
 				(width 0.2)
@@ -6473,7 +6473,7 @@
 		)
 		(fp_arc
 			(start 126.825499 42.249999)
-			(mid 126.475882 42.180158)
+			(mid 126.475888 42.180152)
 			(end 126.179503 41.981997)
 			(stroke
 				(width 0.2)
@@ -6484,7 +6484,7 @@
 		)
 		(fp_arc
 			(start 130.2825 42.249999)
-			(mid 132.226596 42.895058)
+			(mid 132.226574 42.895067)
 			(end 133.398497 44.575)
 			(stroke
 				(width 0.2)
@@ -49187,6 +49187,7 @@
 	(gr_line
 		(start 245 115)
 		(end 269.5 115)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49237,6 +49238,7 @@
 	(gr_line
 		(start 210.75 116)
 		(end 209.25 114.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49267,6 +49269,7 @@
 	(gr_line
 		(start 243.5 113.5)
 		(end 245 115)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49277,6 +49280,7 @@
 	(gr_line
 		(start 211.25 115)
 		(end 228.25 115)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49287,6 +49291,7 @@
 	(gr_line
 		(start 206 113.5)
 		(end 209.75 113.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49297,6 +49302,7 @@
 	(gr_line
 		(start 229.75 113.5)
 		(end 233.75 113.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49307,6 +49313,7 @@
 	(gr_line
 		(start 206.5 114.5)
 		(end 205 116)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49348,6 +49355,7 @@
 	(gr_line
 		(start 233.25 114.5)
 		(end 230.25 114.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49358,6 +49366,7 @@
 	(gr_line
 		(start 244.25 116)
 		(end 242.75 114.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49368,6 +49377,7 @@
 	(gr_line
 		(start 209.75 113.5)
 		(end 211.25 115)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49398,6 +49408,7 @@
 	(gr_line
 		(start 204.5 115)
 		(end 206 113.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49438,6 +49449,7 @@
 	(gr_line
 		(start 237.75 115)
 		(end 239.25 113.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49508,6 +49520,7 @@
 	(gr_line
 		(start 209.25 114.5)
 		(end 206.5 114.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49518,6 +49531,7 @@
 	(gr_line
 		(start 230.25 114.5)
 		(end 228.75 116)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49668,6 +49682,7 @@
 	(gr_line
 		(start 269.5 116)
 		(end 244.25 116)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49678,6 +49693,7 @@
 	(gr_line
 		(start 234.75 116)
 		(end 233.25 114.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49729,6 +49745,7 @@
 	(gr_line
 		(start 239.5 113.5)
 		(end 239.25 113.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49759,6 +49776,7 @@
 	(gr_line
 		(start 237.75 115)
 		(end 235.25 115)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49799,6 +49817,7 @@
 	(gr_line
 		(start 228.75 116)
 		(end 210.75 116)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49829,6 +49848,7 @@
 	(gr_line
 		(start 239.75 114.5)
 		(end 238.25 116)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49871,6 +49891,7 @@
 		(start 269.5 115)
 		(mid 270 115.5)
 		(end 269.5 116)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49881,6 +49902,7 @@
 	(gr_line
 		(start 238.25 116)
 		(end 234.75 116)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49921,6 +49943,7 @@
 	(gr_line
 		(start 239.5 113.5)
 		(end 243.5 113.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49931,6 +49954,7 @@
 	(gr_line
 		(start 242.75 114.5)
 		(end 239.75 114.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49951,6 +49975,7 @@
 	(gr_line
 		(start 233.75 113.5)
 		(end 235.25 115)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -49961,6 +49986,7 @@
 	(gr_line
 		(start 228.25 115)
 		(end 229.75 113.5)
+		(locked yes)
 		(stroke
 			(width 0.1)
 			(type solid)
