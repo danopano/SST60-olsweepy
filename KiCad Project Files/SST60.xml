@@ -1,0 +1,4107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\dfarh\Documents\GitHub\SST60-olsweepy\KiCad Project Files\SST60.kicad_sch</source>
+    <date>2024-04-06T17:11:21-0700</date>
+    <tool>Eeschema 8.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>SST60 - Multi-layout 60% pcb</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2022-07-25</date>
+        <source>SST60.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/">
+      <title_block>
+        <title>SST60 - Multi-layout 60% pcb</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2022-07-25</date>
+        <source>Swtich Matrix.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/">
+      <title_block>
+        <title>SST60 - Multi-layout 60% pcb</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2022-07-25</date>
+        <source>MCU.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>USBnPower.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/">
+      <title_block>
+        <title>SST60 - Multi-layout 60% pcb</title>
+        <company/>
+        <rev>1.0</rev>
+        <date>2022-07-25</date>
+        <source>Misc.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>7c2c6aab-e206-46d9-bf24-9c663be5f80f</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>fab19071-afd9-448f-a864-c9073574e86f</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d444b721-3b3c-454e-b8c5-7e28e8a919cc</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>25eebdb6-5cfd-401a-a477-c6a6b64d0669</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>ec45f160-ed5f-4a6f-8dbb-fa1b1ff7a7c9</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>8389a281-90d8-4d7f-a775-3df3ca56458a</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>115fced6-6d17-487c-a539-ee560454ad36</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>9bbc2c81-f059-4c54-a620-8cae67b71db4</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>6771baef-b53e-40a8-aba7-2002a651a423</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>10058478-a6c2-4792-a909-7cd6eecc1e82</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>98c4da43-f42c-489f-9001-8b56b9363a19</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>5ab8ecec-e5b5-4e55-906d-4cfa03eebf51</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d5f8f9e7-823c-4cdb-86ff-37264b9c0f59</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d857505d-d3b0-405a-9e03-b0141f58debf</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>b0467df8-20b9-44b2-8e6b-baff50952c0a</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>13678abf-b497-49ba-b8de-f18a40f71497</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>76e5a08a-0b09-422f-ada1-582bb5f81de0</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>38c6ae37-6c4e-4593-96dc-64fe66619890</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>9e2672b1-aed7-4f86-8b4f-36418383b4f4</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>49a828ae-3f98-4bd8-bef9-14a992299c68</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>92692a5a-4d19-456e-b8d6-d760df8f371e</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>4d7c0657-054e-4c8f-b3aa-591845d6b46d</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>dbf23af9-9072-4762-a411-e4bf6d1b27d7</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>b4014b11-7ce6-4d89-821b-f1e1d90ce82d</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>e348d8b5-1f9c-49f1-a9d1-872cc35a24f3</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>1e37c49b-774b-4101-9e75-de714d0b23d0</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>b9af22b2-f9d1-4141-8aee-f5f577161b19</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>99b9fa31-7d66-409b-a2dc-bfd2e2e86f11</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>76b70f50-cdc9-44a8-976a-89b8d7e76a47</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>69609e20-8503-4bc2-b23a-4bbe011c359a</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>dc01c569-e2b0-4bd2-b1ac-e2bcee3b555a</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>2ea42722-1669-4754-b417-5f9e940e1827</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>3f37e84f-74a3-4a28-beb3-c42e355ae6cd</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>b978a2fe-95fb-4ec4-b841-d2fb4530ae54</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>8a33c2bb-d980-4ccf-806a-0ed64ccfe4b6</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>0bb73d58-11e0-48ec-83cb-9f09fa8137a0</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>f610758c-47aa-4f74-bce6-321f8405f261</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>a0e4e058-6901-4b8d-901c-c7fd46dd9b2f</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>5515d79e-4297-4042-9f6c-6a9ef2377e1b</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>c53ab426-c9a7-4ea0-b1b7-0b0c5058ad9f</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>4fc96c81-4f9a-483e-aafb-56f8db25da4b</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>7f8aba88-d66c-4845-9e8e-2316299ac597</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>2b1664ca-3db1-4d76-bcab-e59f2ba1e8df</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>3bc26ba0-7750-4330-bfae-8739e5e32d8a</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>a896c208-ad3c-49cb-bce8-0d481f1d481c</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>e32f857e-09fd-43a2-8f70-e51a0eea6340</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>63c0ad8f-be65-4736-8f03-49aca7be8a13</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d5c7284a-be02-4742-a8a9-db08d6d69304</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>71b88976-b10f-4ad4-8aa4-62e51a3c4aa7</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>f1155741-600d-4de0-b585-8f872a2f8ad2</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>23f52707-830e-4a05-aadf-44e7cada2de5</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>746443c0-06ce-41d2-9ed6-b14c17bac75e</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>4f642aec-7575-4dd1-b6d0-75bdab5360db</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>2986c16d-afb1-4536-84d4-f8bb9bf5b98a</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>e8b51575-a97c-4094-83ad-3a11a408507b</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>0a6f8200-7254-4283-b5ac-912087dd58dc</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>3f3db203-c631-4504-aff5-79f6027c967b</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>92b08124-d1c8-4ff4-8b8d-1b1dc2226cd1</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>a507d3ee-213c-48a3-896f-7a34aa728918</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>60bb8c98-57c6-4a27-9ad8-2c00c654fc02</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>2e2b9e16-2ae3-425f-94a2-f4e9c84b4aeb</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>f826062d-4a23-4100-9970-6889aed74c7b</tstamps>
+    </comp>
+    <comp ref="MX1">
+      <value>MX-LED</value>
+      <footprint>MX_Only:MXOnly-1.25U</footprint>
+      <description>Caps</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.25U</field>
+        <field name="Datasheet"/>
+        <field name="Description">Caps</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-LED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d9dd6f1d-3110-4474-8528-4966a9c4e684</tstamps>
+    </comp>
+    <comp ref="MX3">
+      <value>MX-LED</value>
+      <footprint>MX_Only:MXOnly-1U</footprint>
+      <description>Esc</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U</field>
+        <field name="Datasheet"/>
+        <field name="Description">Esc</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-LED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>014dc84f-6e0f-4386-8e3e-bba46879642e</tstamps>
+    </comp>
+    <comp ref="MX4">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <description>Tab</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.5U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">Tab</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>93a8a6c8-b5f2-4284-a093-bb3bfc8eed7a</tstamps>
+    </comp>
+    <comp ref="MX6">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
+      <description>LShift</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-2.25U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">LShift</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>ddd946b0-66ac-4b13-b55a-b0227c08f759</tstamps>
+    </comp>
+    <comp ref="MX7">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <description>LCtrl</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.5U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">LCtrl</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>b4716d84-e354-450c-affa-cd625e92c828</tstamps>
+    </comp>
+    <comp ref="MX8">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>1</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">1</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>e30461cb-2f55-4ae4-b496-2d02116eb360</tstamps>
+    </comp>
+    <comp ref="MX9">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>Q</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">Q</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>1efcf676-ca95-48c5-952f-854935965f03</tstamps>
+    </comp>
+    <comp ref="MX10">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>A</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">A</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>1a425c19-d313-4e27-a7ab-f8dec0080b99</tstamps>
+    </comp>
+    <comp ref="MX12">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>LSuper</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">LSuper</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>0b2425e5-6384-4f7a-b4de-6dc760e20fdd</tstamps>
+    </comp>
+    <comp ref="MX13">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>2</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">2</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>ca6b4f4c-2c2e-4ab3-b018-8f0b5ead7b60</tstamps>
+    </comp>
+    <comp ref="MX14">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>W</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">W</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>45532ebe-0fc2-4e06-923d-6dc50d659cb7</tstamps>
+    </comp>
+    <comp ref="MX15">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>S</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">S</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>1ab46847-db39-4b1e-82e4-c469984394ea</tstamps>
+    </comp>
+    <comp ref="MX16">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>Z</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">Z</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>60f365be-ccc3-43a8-a3bd-89e5f14ad24c</tstamps>
+    </comp>
+    <comp ref="MX17">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <description>LAlt</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.5U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">LAlt</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>5c7164bd-bd5a-40b2-9c4d-0eeb9a3a6d1f</tstamps>
+    </comp>
+    <comp ref="MX18">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>3</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">3</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>6b33ec2f-c8f7-4b11-83d4-c8e707587726</tstamps>
+    </comp>
+    <comp ref="MX19">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>E</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">E</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>c40f960b-23b8-4706-9a1d-bd1eeed52425</tstamps>
+    </comp>
+    <comp ref="MX20">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>D</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">D</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d0d354bf-c29c-48f3-af32-f59c00150b6a</tstamps>
+    </comp>
+    <comp ref="MX21">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>X</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">X</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>8dc4bda2-4968-4974-9d55-d3ba10b29291</tstamps>
+    </comp>
+    <comp ref="MX22">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>4</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">4</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>29cceed2-9848-4e63-82f4-4cf8af6c206f</tstamps>
+    </comp>
+    <comp ref="MX23">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>R</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">R</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d282493a-daa5-462c-a99f-4d34c626d6bc</tstamps>
+    </comp>
+    <comp ref="MX24">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>F</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">F</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d7be00e9-82a3-4f30-8114-7f7bc133042f</tstamps>
+    </comp>
+    <comp ref="MX25">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>C</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">C</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>674fd6c1-d8c9-4b24-89f2-4a0d67500cfe</tstamps>
+    </comp>
+    <comp ref="MX27">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>5</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">5</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>594643fe-fe2a-4773-9d67-f68594a31e1d</tstamps>
+    </comp>
+    <comp ref="MX28">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>T</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">T</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>2d255862-0e83-472f-844f-94d1685d07f4</tstamps>
+    </comp>
+    <comp ref="MX29">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>G</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">G</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>6083377a-bcd4-4739-b4c2-3c5334fd4136</tstamps>
+    </comp>
+    <comp ref="MX30">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>V</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">V</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>6dd464d4-db04-4e12-bedf-10f0c78b322e</tstamps>
+    </comp>
+    <comp ref="MX33">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>6</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">6</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>00b11228-4d2f-4d31-bf3f-63730030d080</tstamps>
+    </comp>
+    <comp ref="MX34">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>Y</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">Y</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>295c59b4-2db5-423c-b008-a279274bf7e3</tstamps>
+    </comp>
+    <comp ref="MX35">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>H</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">H</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>da3e73dc-c4ac-470f-952d-bfd7f41ef093</tstamps>
+    </comp>
+    <comp ref="MX36">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>B</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">B</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>53187173-8abd-4c74-8ba2-a00767408fab</tstamps>
+    </comp>
+    <comp ref="MX37">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>7</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">7</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>6e0c0e23-3f9a-4879-aca1-7ea977ac87ea</tstamps>
+    </comp>
+    <comp ref="MX38">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>U</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">U</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>ef4f9890-dbc8-4c94-8b6e-500196ab54fb</tstamps>
+    </comp>
+    <comp ref="MX39">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>J</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">J</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>f1603cbe-05d6-4b9f-a454-230e41e7cc4c</tstamps>
+    </comp>
+    <comp ref="MX40">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>N</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">N</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>a9a6a206-0171-40e2-ae68-c690e0c8884b</tstamps>
+    </comp>
+    <comp ref="MX42">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-7U-ReversedStabilizers-NoLED</footprint>
+      <description>Space</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-7U-ReversedStabilizers-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">Space</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>7feae008-deeb-4d86-a30e-a87641f52205</tstamps>
+    </comp>
+    <comp ref="MX43">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>8</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">8</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>3de13293-d51f-406e-9a39-205fda571634</tstamps>
+    </comp>
+    <comp ref="MX44">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>I</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">I</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>83a3fd34-dec1-49d1-bd35-5df4a5fbfdf9</tstamps>
+    </comp>
+    <comp ref="MX45">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>K</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">K</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>3d23bd0c-6728-4998-9b79-7ab9f6f2c852</tstamps>
+    </comp>
+    <comp ref="MX46">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>M</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">M</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>0319a0bc-4291-4005-abb8-a86a328b5813</tstamps>
+    </comp>
+    <comp ref="MX47">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>9</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">9</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>41783777-f9ac-4dfe-b698-768621e9cafd</tstamps>
+    </comp>
+    <comp ref="MX48">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>O</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">O</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>48ec7f5c-9bae-4883-ab92-edfe8e927917</tstamps>
+    </comp>
+    <comp ref="MX49">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>L</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">L</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>9b0ba3aa-c2ce-49f7-9278-9f446f24f45a</tstamps>
+    </comp>
+    <comp ref="MX50">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>,</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">,</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d29f045e-0183-4f93-8f51-ebd9565ac77f</tstamps>
+    </comp>
+    <comp ref="MX53">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>0</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">0</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>d47ac68e-4e10-443d-b916-d8b9132f5ad9</tstamps>
+    </comp>
+    <comp ref="MX54">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>P</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">P</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>0e565ac3-243d-4622-88f5-288cc7792aee</tstamps>
+    </comp>
+    <comp ref="MX55">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>;</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">;</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>cf6304a5-c3ea-4652-af55-00040b6bd4a7</tstamps>
+    </comp>
+    <comp ref="MX56">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>.</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">.</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>97a2dd44-b769-4989-b170-cd934465661f</tstamps>
+    </comp>
+    <comp ref="MX58">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>-</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">-</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>ad8d0e84-edd9-4eed-a641-7662127722c3</tstamps>
+    </comp>
+    <comp ref="MX59">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>[</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">[</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>badec855-fac4-4b53-8805-1c482453945b</tstamps>
+    </comp>
+    <comp ref="MX60">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>'</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">'</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>1d803d71-8c47-4282-96b6-46f00d20fd15</tstamps>
+    </comp>
+    <comp ref="MX61">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>/</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">/</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>3c086297-67ea-4022-a84d-651668c03687</tstamps>
+    </comp>
+    <comp ref="MX62">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <description>RAlt</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.5U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">RAlt</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>e5eff448-b89e-404a-8ccb-ee5f22314d05</tstamps>
+    </comp>
+    <comp ref="MX63">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>=</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">=</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>8031bd1e-6d52-494c-a567-080b32fa302f</tstamps>
+    </comp>
+    <comp ref="MX64">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>]</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">]</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>46afabc3-3d79-4ed1-b6a9-f95ba90f7957</tstamps>
+    </comp>
+    <comp ref="MX66">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1.75U-NoLED</footprint>
+      <description>RShift</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.75U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">RShift</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>f5d040d6-ed74-4cec-8492-195a7f56c0ab</tstamps>
+    </comp>
+    <comp ref="MX67">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>RSuper</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">RSuper</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>e2d2b150-996c-4dd7-b806-ec8b69d091b3</tstamps>
+    </comp>
+    <comp ref="MX69">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>\</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">\</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>7dd56df5-b70d-4aea-ab92-725a25e61394</tstamps>
+    </comp>
+    <comp ref="MX70">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-2.25U-NoLED</footprint>
+      <description>Enter</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-2.25U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">Enter</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>7ea0fcf2-7157-497f-9cb2-13f60a0a0ff8</tstamps>
+    </comp>
+    <comp ref="MX73">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>`</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">`</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>c39fee69-845e-4bda-aa43-ea3d7d351cad</tstamps>
+    </comp>
+    <comp ref="MX74">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <description>BKSP</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.5U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">BKSP</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>7cc2708f-a60e-478b-80a4-cce815d56cd2</tstamps>
+    </comp>
+    <comp ref="MX75">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1U-NoLED</footprint>
+      <description>Fn</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">Fn</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>261cb224-23c4-4e4c-bf35-7391197f0eb1</tstamps>
+    </comp>
+    <comp ref="MX76">
+      <value>MX-NoLED</value>
+      <footprint>MX_Only:MXOnly-1.5U-NoLED</footprint>
+      <description>RCtrl</description>
+      <fields>
+        <field name="Footprint">MX_Only:MXOnly-1.5U-NoLED</field>
+        <field name="Datasheet"/>
+        <field name="Description">RCtrl</field>
+      </fields>
+      <libsource lib="cipulot_parts" part="MX-NoLED" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>1fcdc71e-3473-417e-b927-9cff69c23c22</tstamps>
+    </comp>
+    <comp ref="R_LED1">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>c51278a7-8ae3-4dda-9917-d260fe71809d</tstamps>
+    </comp>
+    <comp ref="R_LED2">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="Swtich Matrix.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/a4358792-fb65-4f7e-967e-aa66e21be627/"/>
+      <tstamps>1e1a713f-502f-4c30-a0d6-55e46cd8bb35</tstamps>
+    </comp>
+    <comp ref="C_1V-Decoup1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>88583a74-404b-4b4a-8e84-f280a9dc6636</tstamps>
+    </comp>
+    <comp ref="C_1V-Decoup2">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>2a82d540-9357-4487-b9aa-e992ed0242ea</tstamps>
+    </comp>
+    <comp ref="C_1V-Decoup3">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>b874f7a6-468a-47cb-9579-5fc88c3a21e3</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup1">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>d2769462-a09b-4fd7-b339-dcce30865ea5</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>ab802df2-44b7-4c16-add6-9af3b5f6cd40</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup3">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>d1932960-c28d-4ceb-bca1-cdcfce304701</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup4">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>99a33f2b-ff95-45c7-b5fd-c77de51c266f</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup5">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>13e75bad-5f79-42f5-95e4-5c09940699cc</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup6">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>cfb2f422-3e62-4d90-a2fd-75471811043d</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup7">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>c4f65b8b-4a26-4b79-a1af-b9dc2eaca1cb</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup8">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>6c753169-5dc7-4819-9c49-356e2c42e122</tstamps>
+    </comp>
+    <comp ref="C_3V-Decoup9">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>c8090172-42e5-45a1-a173-143b79cd4a67</tstamps>
+    </comp>
+    <comp ref="C_Crystal1">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>686be36f-245b-4e1f-afca-ffc31bed3455</tstamps>
+    </comp>
+    <comp ref="C_Crystal2">
+      <value>22pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>ef6db3c9-4b88-4505-a11c-66166904e2e6</tstamps>
+    </comp>
+    <comp ref="C_Flash1">
+      <value>.1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>e0bbd1c4-fc52-4018-8504-ed9ee66f323d</tstamps>
+    </comp>
+    <comp ref="R_Crystal1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>7dc7801e-0f40-4e3d-b255-f770d92dbec1</tstamps>
+    </comp>
+    <comp ref="R_DATA1">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>ad9714da-f12b-4411-8822-c43890711504</tstamps>
+    </comp>
+    <comp ref="R_DATA2">
+      <value>27</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>5f3b53cd-f6be-42b1-8be2-8c91b66c4d80</tstamps>
+    </comp>
+    <comp ref="R_Flash1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>0b48832c-967a-4d9c-9ff0-8f636ee92499</tstamps>
+    </comp>
+    <comp ref="R_RST1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>4cbb7863-a25d-4641-833b-067794e2526c</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Boot</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_TL3342</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>b7af517c-40fd-410a-ad3f-c069e7e42a68</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Reset</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_SPST_TL3342</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>927f9965-d472-4f71-b8e3-aaa670f982bb</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>RP2040</value>
+      <footprint>cipulot_parts:RP2040-QFN-56</footprint>
+      <datasheet>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</datasheet>
+      <fields>
+        <field name="Footprint">cipulot_parts:RP2040-QFN-56</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="RP2040" description=""/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="raspberry pi 2040"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>f99906a3-23b3-47d0-8d22-51e1b4c9e5d6</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>W25Q128JVS</value>
+      <footprint>Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</footprint>
+      <datasheet>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</datasheet>
+      <fields>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Memory_Flash" part="W25Q128JVS" description="128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="flash memory SPI QPI DTR"/>
+      <property name="ki_fp_filters" value="SOIC*5.23x5.23mm*P1.27mm*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>445de2a3-8a42-4dba-a250-fe9f7202b2e1</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>12MHz</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <fields>
+        <field name="Footprint">Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
+      <property name="Sheetname" value="MCU Components"/>
+      <property name="Sheetfile" value="MCU.kicad_sch"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <property name="ki_fp_filters" value="Crystal*"/>
+      <sheetpath names="/MCU Components/" tstamps="/8988eb5c-d40f-430f-b968-d5d8451d34b8/"/>
+      <tstamps>26a35876-a863-4363-82e0-46ace8003c7e</tstamps>
+    </comp>
+    <comp ref="C_LDO1">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>b9f28c99-5abb-4c50-8f51-f260bfbd84bf</tstamps>
+    </comp>
+    <comp ref="C_LDO2">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>e3f26c88-7384-4379-a2e6-ae7016ad6423</tstamps>
+    </comp>
+    <comp ref="C_Shield1">
+      <value>4.7n</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>9790824d-8a88-40ed-8b5d-2a91f027e3d8</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>500mA</value>
+      <footprint>Fuse:Fuse_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Fuse:Fuse_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <property name="ki_fp_filters" value="*polyfuse* *PTC*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>1e89bf40-ce82-42b8-b215-3fc4d37db29b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>SM04B</value>
+      <footprint>Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
+      <fields>
+        <field name="Footprint">Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Female" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>6afd6128-2509-4c39-adbf-3e2e0febad11</tstamps>
+    </comp>
+    <comp ref="R_Shield1">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>e1c75fbc-cda7-480f-b551-a7821693fb2b</tstamps>
+    </comp>
+    <comp ref="R_USB1">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>3ce4cb37-9916-40cd-aeef-d159741984d1</tstamps>
+    </comp>
+    <comp ref="R_USB2">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0402_1005Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="R resistor"/>
+      <property name="ki_fp_filters" value="R_*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>053f8b02-5d46-4f7e-8c5d-716962195fbd</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>XC6206PxxxMR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.torexsemi.com/file/xc6206/XC6206.pdf</datasheet>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6206/XC6206.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Regulator_Linear" part="XC6206PxxxMR" description="Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <property name="ki_keywords" value="Torex LDO Voltage Regulator Fixed Positive"/>
+      <property name="ki_fp_filters" value="SOT?23*"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>b346127e-a197-4e48-90de-0b9f58451e7c</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>PRTR5V0U2X</value>
+      <footprint>random-keyboard-parts:SOT143B</footprint>
+      <fields>
+        <field name="Footprint">random-keyboard-parts:SOT143B</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="PRTR5V0U2X" description=""/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>f3e5dbf8-f964-41ad-948f-cd9effbef6f3</tstamps>
+    </comp>
+    <comp ref="USB1">
+      <value>HRO-TYPE-C-31-M-12</value>
+      <footprint>cipulot_parts:HRO-TYPE-C-31-M-12-Assembly</footprint>
+      <fields>
+        <field name="Footprint">cipulot_parts:HRO-TYPE-C-31-M-12-Assembly</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="HRO-TYPE-C-31-M-12" description=""/>
+      <property name="Sheetname" value="USB &amp; Power"/>
+      <property name="Sheetfile" value="USBnPower.kicad_sch"/>
+      <sheetpath names="/USB &amp; Power/" tstamps="/9e40d895-a947-4b33-a248-0d0dda788e56/"/>
+      <tstamps>f18511fe-511e-4722-a2e1-5c95a87942f4</tstamps>
+    </comp>
+    <comp ref="D69">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>1c0e3c6c-2761-4a64-b11d-645b6c761914</tstamps>
+    </comp>
+    <comp ref="D70">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>1cefe88c-15e8-4d9e-bf0b-c50ff5ee37a9</tstamps>
+    </comp>
+    <comp ref="D71">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>f09c7bbf-b5a6-40f6-816b-6aec7b69fb44</tstamps>
+    </comp>
+    <comp ref="D72">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>edb2bcc4-7c55-4837-9b64-42480408b8f8</tstamps>
+    </comp>
+    <comp ref="D73">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>c3b8222a-7310-4257-945c-e6031926e7aa</tstamps>
+    </comp>
+    <comp ref="D74">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>2ab170af-2854-429c-b0cd-680bd3ead3d6</tstamps>
+    </comp>
+    <comp ref="D75">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>21bea573-7b99-450a-8db7-9f556434cbb1</tstamps>
+    </comp>
+    <comp ref="D76">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>497006e5-eeab-4860-a851-5f1a7cf579c0</tstamps>
+    </comp>
+    <comp ref="D77">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>8b65e9c3-2d49-462b-a3c4-190157656c7d</tstamps>
+    </comp>
+    <comp ref="D78">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>f33f930b-beb7-480e-b6f3-47c09c2077da</tstamps>
+    </comp>
+    <comp ref="D79">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>2b2f4c53-a036-403c-b827-312efcbb6d84</tstamps>
+    </comp>
+    <comp ref="D80">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>eae53bb2-c964-4f93-ad22-ddd85aebcd1f</tstamps>
+    </comp>
+    <comp ref="D81">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>3684aa74-a655-4a24-8f6e-5a7eb37d0b96</tstamps>
+    </comp>
+    <comp ref="D82">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>6349d8c5-847b-4d82-8f76-3d96d91d1e70</tstamps>
+    </comp>
+    <comp ref="D83">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>cdbec884-d52e-4982-b236-25d1f2dc27e4</tstamps>
+    </comp>
+    <comp ref="D84">
+      <value>WS2812B-2020</value>
+      <footprint>acheron_Components:LED_WS2812_2020</footprint>
+      <datasheet>http://www.world-semi.com/DownLoadFile/112</datasheet>
+      <fields>
+        <field name="Footprint">acheron_Components:LED_WS2812_2020</field>
+        <field name="Datasheet">http://www.world-semi.com/DownLoadFile/112</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="cipulot_parts" part="SK6812MINI" description=""/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_fp_filters" value="LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>9f663da3-c1ce-479b-b9c4-002e46c49976</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>PCB Outline</value>
+      <footprint>Components:L60 Outline</footprint>
+      <fields>
+        <field name="Footprint">Components:L60 Outline</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <property name="ki_fp_filters" value="MountingHole*Pad*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>4f868840-2ef4-48d0-a65f-8665478ed532</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SWD</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x05_Female" description="Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>c9dd95cd-824c-4338-ac37-09dbeb6a80ec</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>74AHCT1G125</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</datasheet>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="74xGxx" part="74AHCT1G125" description="Single Buffer Gate Tri-State, Low-Voltage CMOS"/>
+      <property name="Sheetname" value="Misc"/>
+      <property name="Sheetfile" value="Misc.kicad_sch"/>
+      <property name="ki_keywords" value="Single Gate Buff Tri-State LVC CMOS"/>
+      <property name="ki_fp_filters" value="SOT* SG-*"/>
+      <sheetpath names="/Misc/" tstamps="/4eb096de-f3a2-4165-be7d-6a3944b02fe7/"/>
+      <tstamps>2d63ab5d-5d76-4fb9-8f74-7fdcb74f6540</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xGxx" part="74AHCT1G125">
+      <description>Single Buffer Gate Tri-State, Low-Voltage CMOS</description>
+      <docs>http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</docs>
+      <footprints>
+        <fp>SOT*</fp>
+        <fp>SG-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U?</field>
+        <field name="Value">74AHCT1G125</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf</field>
+        <field name="Description">Single Buffer Gate Tri-State, Low-Voltage CMOS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="" type="tri_state"/>
+        <pin num="5" name="+5V" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Female">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Female</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Female">
+      <description>Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Female</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Unpolarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_GND24_Small">
+      <description>Four pin crystal, GND on pins 2 and 4, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Four pin crystal, GND on pins 2 and 4, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Diode, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resettable fuse, polymeric positive temperature coefficient, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resistor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole with connection</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Memory_Flash" part="W25Q128JVS">
+      <description>128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</description>
+      <docs>http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</docs>
+      <footprints>
+        <fp>SOIC*5.23x5.23mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">W25Q128JVS</field>
+        <field name="Footprint">Package_SO:SOIC-8_5.23x5.23mm_P1.27mm</field>
+        <field name="Datasheet">http://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf</field>
+        <field name="Description">128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~{CS}" type="input"/>
+        <pin num="2" name="DO(IO1)" type="bidirectional"/>
+        <pin num="3" name="IO2" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="DI(IO0)" type="bidirectional"/>
+        <pin num="6" name="CLK" type="input"/>
+        <pin num="7" name="IO3" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="XC6206PxxxMR">
+      <description>Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23</description>
+      <docs>https://www.torexsemi.com/file/xc6206/XC6206.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6206PxxxMR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6206/XC6206.pdf</field>
+        <field name="Description">Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Push button switch, generic, two pins</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="cipulot_parts" part="HRO-TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VBUS" type="input"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="input"/>
+        <pin num="6" name="DP1" type="input"/>
+        <pin num="7" name="DN1" type="input"/>
+        <pin num="8" name="DP2" type="input"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="cipulot_parts" part="MX-LED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-LED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+        <pin num="3" name="LED" type="input"/>
+        <pin num="4" name="LEDGND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="cipulot_parts" part="MX-NoLED">
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX-NoLED</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="COL" type="passive"/>
+        <pin num="2" name="ROW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="cipulot_parts" part="PRTR5V0U2X">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PRTR5V0U2X</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="IO1" type="input"/>
+        <pin num="3" name="IO2" type="input"/>
+        <pin num="4" name="VCC" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="cipulot_parts" part="RP2040">
+      <docs>https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040</field>
+        <field name="Footprint">cipulot_parts:RP2040-QFN-56</field>
+        <field name="Datasheet">https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="IOVDD" type="power_in"/>
+        <pin num="2" name="GPIO0" type="bidirectional"/>
+        <pin num="3" name="GPIO1" type="bidirectional"/>
+        <pin num="4" name="GPIO2" type="bidirectional"/>
+        <pin num="5" name="GPIO3" type="bidirectional"/>
+        <pin num="6" name="GPIO4" type="bidirectional"/>
+        <pin num="7" name="GPIO5" type="bidirectional"/>
+        <pin num="8" name="GPIO6" type="bidirectional"/>
+        <pin num="9" name="GPIO7" type="bidirectional"/>
+        <pin num="10" name="IOVDD" type="power_in"/>
+        <pin num="11" name="GPIO8" type="bidirectional"/>
+        <pin num="12" name="GPIO9" type="bidirectional"/>
+        <pin num="13" name="GPIO10" type="bidirectional"/>
+        <pin num="14" name="GPIO11" type="bidirectional"/>
+        <pin num="15" name="GPIO12" type="bidirectional"/>
+        <pin num="16" name="GPIO13" type="bidirectional"/>
+        <pin num="17" name="GPIO14" type="bidirectional"/>
+        <pin num="18" name="GPIO15" type="bidirectional"/>
+        <pin num="19" name="TESTEN" type="input"/>
+        <pin num="20" name="XTAL_IN" type="input"/>
+        <pin num="21" name="XTAL_OUT" type="input"/>
+        <pin num="22" name="IOVDD" type="power_in"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="SWCLK" type="input"/>
+        <pin num="25" name="SWDIO" type="bidirectional"/>
+        <pin num="26" name="~{RUN}" type="input"/>
+        <pin num="27" name="GPIO16" type="bidirectional"/>
+        <pin num="28" name="GPIO17" type="bidirectional"/>
+        <pin num="29" name="GPIO18" type="bidirectional"/>
+        <pin num="30" name="GPIO19" type="bidirectional"/>
+        <pin num="31" name="GPIO20" type="bidirectional"/>
+        <pin num="32" name="GPIO21" type="bidirectional"/>
+        <pin num="33" name="IOVDD" type="power_in"/>
+        <pin num="34" name="GPIO22" type="bidirectional"/>
+        <pin num="35" name="GPIO23" type="bidirectional"/>
+        <pin num="36" name="GPIO24" type="bidirectional"/>
+        <pin num="37" name="GPIO25" type="bidirectional"/>
+        <pin num="38" name="GPIO26/ADC0" type="bidirectional"/>
+        <pin num="39" name="GPIO27/ADC1" type="bidirectional"/>
+        <pin num="40" name="GPIO28/ADC2" type="bidirectional"/>
+        <pin num="41" name="GPIO29/ADC3" type="bidirectional"/>
+        <pin num="42" name="IOVDD" type="power_in"/>
+        <pin num="43" name="ADC_AVDD" type="power_in"/>
+        <pin num="44" name="VREG_VIN" type="power_in"/>
+        <pin num="45" name="VREG_VOUT" type="power_out"/>
+        <pin num="46" name="D-" type="bidirectional"/>
+        <pin num="47" name="D+" type="bidirectional"/>
+        <pin num="48" name="USB_VDD" type="power_in"/>
+        <pin num="49" name="IOVDD" type="power_in"/>
+        <pin num="50" name="DVDD" type="power_in"/>
+        <pin num="51" name="QSPI_SD3" type="bidirectional"/>
+        <pin num="52" name="QSPI_SCLK" type="bidirectional"/>
+        <pin num="53" name="QSPI_SD0" type="bidirectional"/>
+        <pin num="54" name="QSPI_SD2" type="bidirectional"/>
+        <pin num="55" name="QSPI_SD1" type="bidirectional"/>
+        <pin num="56" name="QSPI_SS_N" type="bidirectional"/>
+        <pin num="57" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="cipulot_parts" part="SK6812MINI">
+      <footprints>
+        <fp>LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SK6812MINI</field>
+        <field name="Footprint">LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="DIN" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xGxx">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/74xGxx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Memory_Flash">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Memory_Flash.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\8.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="cipulot_parts">
+      <uri>C:/Users/dfarh/Documents/GitHub/SST60-olsweepy/cipulot_kicad_parts/cipulot_parts.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V1">
+      <node ref="C_1V-Decoup1" pin="1" pintype="passive"/>
+      <node ref="C_1V-Decoup2" pin="1" pintype="passive"/>
+      <node ref="C_1V-Decoup3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="DVDD" pintype="power_in"/>
+      <node ref="U1" pin="45" pinfunction="VREG_VOUT" pintype="power_out"/>
+      <node ref="U1" pin="50" pinfunction="DVDD" pintype="power_in"/>
+    </net>
+    <net code="2" name="+3V3">
+      <node ref="C_3V-Decoup1" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup2" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup3" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup4" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup5" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup6" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup7" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup8" pin="1" pintype="passive"/>
+      <node ref="C_3V-Decoup9" pin="1" pintype="passive"/>
+      <node ref="C_Flash1" pin="1" pintype="passive"/>
+      <node ref="C_LDO2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R_RST1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="10" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="22" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="33" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="42" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U1" pin="43" pinfunction="ADC_AVDD" pintype="power_in"/>
+      <node ref="U1" pin="44" pinfunction="VREG_VIN" pintype="power_in"/>
+      <node ref="U1" pin="48" pinfunction="USB_VDD" pintype="power_in"/>
+      <node ref="U1" pin="49" pinfunction="IOVDD" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="C_LDO1" pin="1" pintype="passive"/>
+      <node ref="D69" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D70" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D71" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D72" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D73" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D74" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D75" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D76" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D77" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D78" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D79" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D80" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D81" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D82" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D83" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="D84" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="+5V" pintype="power_in"/>
+    </net>
+    <net code="4" name="CAPSLED">
+      <node ref="R_LED2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="GPIO17" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="CS">
+      <node ref="R_Flash1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="56" pinfunction="QSPI_SS_N" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="~{CS}" pintype="input"/>
+    </net>
+    <net code="6" name="D+">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R_DATA1" pin="1" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="IO1" pintype="input"/>
+      <node ref="USB1" pin="6" pinfunction="DP1" pintype="input"/>
+      <node ref="USB1" pin="8" pinfunction="DP2" pintype="input"/>
+    </net>
+    <net code="7" name="D-">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R_DATA2" pin="1" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="IO2" pintype="input"/>
+      <node ref="USB1" pin="5" pinfunction="DN2" pintype="input"/>
+      <node ref="USB1" pin="7" pinfunction="DN1" pintype="input"/>
+    </net>
+    <net code="8" name="ESCLED">
+      <node ref="R_LED1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="38" pinfunction="GPIO26/ADC0" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="GND">
+      <node ref="C_1V-Decoup1" pin="2" pintype="passive"/>
+      <node ref="C_1V-Decoup2" pin="2" pintype="passive"/>
+      <node ref="C_1V-Decoup3" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup1" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup2" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup3" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup4" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup5" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup6" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup7" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup8" pin="2" pintype="passive"/>
+      <node ref="C_3V-Decoup9" pin="2" pintype="passive"/>
+      <node ref="C_Crystal1" pin="1" pintype="passive"/>
+      <node ref="C_Crystal2" pin="1" pintype="passive"/>
+      <node ref="C_Flash1" pin="2" pintype="passive"/>
+      <node ref="C_LDO1" pin="2" pintype="passive"/>
+      <node ref="C_LDO2" pin="2" pintype="passive"/>
+      <node ref="C_Shield1" pin="1" pintype="passive"/>
+      <node ref="D69" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D70" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D71" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D72" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D73" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D74" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D75" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D76" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D77" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D78" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D79" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D80" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D81" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D82" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D83" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="D84" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="MX1" pin="4" pinfunction="LEDGND" pintype="passive"/>
+      <node ref="MX3" pin="4" pinfunction="LEDGND" pintype="passive"/>
+      <node ref="R_Shield1" pin="2" pintype="passive"/>
+      <node ref="R_USB1" pin="2" pintype="passive"/>
+      <node ref="R_USB2" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="TESTEN" pintype="input"/>
+      <node ref="U1" pin="57" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U5" pin="1" pintype="input"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="USB1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="USB1" pin="12" pinfunction="GND" pintype="input"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="10" name="GNDREF">
+      <node ref="C_Shield1" pin="2" pintype="passive"/>
+      <node ref="R_Shield1" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="13" pinfunction="SHIELD" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(C_Crystal2-Pad2)">
+      <node ref="C_Crystal2" pin="2" pintype="passive"/>
+      <node ref="R_Crystal1" pin="1" pintype="passive"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX3" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX4" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX1" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX6" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX7" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX8" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX9" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX10" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX12" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX16" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX13" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX14" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX15" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX17" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX18" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX19" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX20" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX21" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX22" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX23" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX24" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D23-A)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX25" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D25-A)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX27" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D26-A)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX28" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D27-A)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX29" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D28-A)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX30" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX33" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D31-A)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX34" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D32-A)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX35" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D33-A)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX36" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D34-A)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX37" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D35-A)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX38" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D36-A)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX39" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D37-A)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX40" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D38-A)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX42" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D39-A)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX43" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D40-A)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX44" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D41-A)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX45" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D42-A)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX46" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D43-A)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX47" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D44-A)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX48" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D45-A)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX49" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D46-A)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX50" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D48-A)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX53" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D49-A)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX54" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D50-A)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX55" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D51-A)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX56" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D53-A)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX58" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D54-A)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX59" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D55-A)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX60" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D56-A)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX61" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D57-A)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX62" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D58-A)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX63" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D59-A)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX64" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D61-A)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX66" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D62-A)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX67" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D63-A)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX69" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D64-A)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX70" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D65-A)">
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX73" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D66-A)">
+      <node ref="D66" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX74" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D67-A)">
+      <node ref="D67" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX75" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D68-A)">
+      <node ref="D68" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX76" pin="2" pinfunction="ROW" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D69-DIN)">
+      <node ref="D69" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D70" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="75" name="Net-(D70-DIN)">
+      <node ref="D70" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D72" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="76" name="Net-(D71-DOUT)">
+      <node ref="D71" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D73" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="77" name="Net-(D72-DIN)">
+      <node ref="D72" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D74" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="78" name="Net-(D73-DOUT)">
+      <node ref="D73" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D75" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(D74-DIN)">
+      <node ref="D74" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D76" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="80" name="Net-(D75-DOUT)">
+      <node ref="D75" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D77" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="81" name="Net-(D76-DIN)">
+      <node ref="D76" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D78" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="82" name="Net-(D77-DOUT)">
+      <node ref="D77" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D79" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(D78-DIN)">
+      <node ref="D78" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D80" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="84" name="Net-(D79-DOUT)">
+      <node ref="D79" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D81" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="85" name="Net-(D80-DIN)">
+      <node ref="D80" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D82" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="86" name="Net-(D81-DOUT)">
+      <node ref="D81" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D83" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="87" name="Net-(D82-DIN)">
+      <node ref="D82" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="D84" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="88" name="Net-(D83-DOUT)">
+      <node ref="D83" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="D84" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="89" name="Net-(MX1-LED)">
+      <node ref="MX1" pin="3" pinfunction="LED" pintype="input"/>
+      <node ref="R_LED2" pin="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(MX3-LED)">
+      <node ref="MX3" pin="3" pinfunction="LED" pintype="input"/>
+      <node ref="R_LED1" pin="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(R_Flash1-Pad1)">
+      <node ref="R_Flash1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(U1-D+)">
+      <node ref="R_DATA1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="47" pinfunction="D+" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="Net-(U1-D-)">
+      <node ref="R_DATA2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="46" pinfunction="D-" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="Net-(USB1-CC1)">
+      <node ref="R_USB1" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="4" pinfunction="CC1" pintype="input"/>
+    </net>
+    <net code="95" name="Net-(USB1-CC2)">
+      <node ref="R_USB2" pin="1" pintype="passive"/>
+      <node ref="USB1" pin="10" pinfunction="CC2" pintype="input"/>
+    </net>
+    <net code="96" name="QSPI_CLK">
+      <node ref="U1" pin="52" pinfunction="QSPI_SCLK" pintype="bidirectional"/>
+      <node ref="U2" pin="6" pinfunction="CLK" pintype="input"/>
+    </net>
+    <net code="97" name="RESET">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R_RST1" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="~{RUN}" pintype="input"/>
+    </net>
+    <net code="98" name="RGB">
+      <node ref="D71" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="U5" pin="4" pintype="tri_state"/>
+    </net>
+    <net code="99" name="RGBLED">
+      <node ref="U1" pin="41" pinfunction="GPIO29/ADC3" pintype="bidirectional"/>
+      <node ref="U5" pin="2" pintype="input"/>
+    </net>
+    <net code="100" name="SD0">
+      <node ref="U1" pin="53" pinfunction="QSPI_SD0" pintype="bidirectional"/>
+      <node ref="U2" pin="5" pinfunction="DI(IO0)" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="SD1">
+      <node ref="U1" pin="55" pinfunction="QSPI_SD1" pintype="bidirectional"/>
+      <node ref="U2" pin="2" pinfunction="DO(IO1)" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="SD2">
+      <node ref="U1" pin="54" pinfunction="QSPI_SD2" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="SD3">
+      <node ref="U1" pin="51" pinfunction="QSPI_SD3" pintype="bidirectional"/>
+      <node ref="U2" pin="7" pinfunction="IO3" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="SWCLK">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="105" name="SWDIO">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="VCC">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="VCC" pintype="input"/>
+      <node ref="USB1" pin="11" pinfunction="VBUS" pintype="input"/>
+      <node ref="USB1" pin="2" pinfunction="VBUS" pintype="input"/>
+    </net>
+    <net code="107" name="XTAL_IN">
+      <node ref="C_Crystal1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="XTAL_IN" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="108" name="XTAL_OUT">
+      <node ref="R_Crystal1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="XTAL_OUT" pintype="input"/>
+    </net>
+    <net code="109" name="col0">
+      <node ref="MX1" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX3" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX4" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX6" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX7" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="32" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="110" name="col1">
+      <node ref="MX10" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX12" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX8" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX9" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GPIO5" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="col2">
+      <node ref="MX13" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX14" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX15" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX16" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX17" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GPIO4" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="col3">
+      <node ref="MX18" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX19" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX20" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX21" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GPIO3" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="col4">
+      <node ref="MX22" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX23" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX24" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX25" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GPIO2" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="col5">
+      <node ref="MX27" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX28" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX29" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX30" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="GPIO1" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="col6">
+      <node ref="MX33" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX34" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX35" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX36" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="116" name="col7">
+      <node ref="MX37" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX38" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX39" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX40" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX42" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="GPIO15" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="col8">
+      <node ref="MX43" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX44" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX45" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX46" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GPIO14" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="col9">
+      <node ref="MX47" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX48" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX49" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX50" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GPIO13" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="col10">
+      <node ref="MX53" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX54" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX55" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX56" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GPIO12" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="col11">
+      <node ref="MX58" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX59" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX60" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX61" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX62" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="GPIO11" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="col12">
+      <node ref="MX63" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX64" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX66" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX67" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="GPIO10" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="col13">
+      <node ref="MX69" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX70" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="GPIO8" pintype="bidirectional"/>
+    </net>
+    <net code="123" name="col14">
+      <node ref="MX73" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX74" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX75" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="MX76" pin="1" pinfunction="COL" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="GPIO9" pintype="bidirectional"/>
+    </net>
+    <net code="124" name="row0">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="40" pinfunction="GPIO28/ADC2" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="row1">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="39" pinfunction="GPIO27/ADC1" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="row2">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="GPIO20" pintype="bidirectional"/>
+    </net>
+    <net code="127" name="row3">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="GPIO6" pintype="bidirectional"/>
+    </net>
+    <net code="128" name="row4">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="GPIO7" pintype="bidirectional"/>
+    </net>
+    <net code="129" name="unconnected-(D69-DOUT-Pad1)">
+      <node ref="D69" pin="1" pinfunction="DOUT" pintype="output+no_connect"/>
+    </net>
+    <net code="130" name="unconnected-(U1-GPIO16-Pad27)">
+      <node ref="U1" pin="27" pinfunction="GPIO16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="131" name="unconnected-(U1-GPIO18-Pad29)">
+      <node ref="U1" pin="29" pinfunction="GPIO18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="132" name="unconnected-(U1-GPIO19-Pad30)">
+      <node ref="U1" pin="30" pinfunction="GPIO19" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="133" name="unconnected-(U1-GPIO22-Pad34)">
+      <node ref="U1" pin="34" pinfunction="GPIO22" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="134" name="unconnected-(U1-GPIO23-Pad35)">
+      <node ref="U1" pin="35" pinfunction="GPIO23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="135" name="unconnected-(U1-GPIO24-Pad36)">
+      <node ref="U1" pin="36" pinfunction="GPIO24" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="136" name="unconnected-(U1-GPIO25-Pad37)">
+      <node ref="U1" pin="37" pinfunction="GPIO25" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="137" name="unconnected-(USB1-SBU1-Pad9)">
+      <node ref="USB1" pin="9" pinfunction="SBU1" pintype="input+no_connect"/>
+    </net>
+    <net code="138" name="unconnected-(USB1-SBU2-Pad3)">
+      <node ref="USB1" pin="3" pinfunction="SBU2" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

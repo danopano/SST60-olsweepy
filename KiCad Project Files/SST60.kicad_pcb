@@ -327,7 +327,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/b4716d84-e354-450c-affa-cd625e92c828")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -570,7 +570,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/2d255862-0e83-472f-844f-94d1685d07f4")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -813,7 +813,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/93a8a6c8-b5f2-4284-a093-bb3bfc8eed7a")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -1056,7 +1056,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/badec855-fac4-4b53-8805-1c482453945b")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1299,7 +1299,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/e5eff448-b89e-404a-8ccb-ee5f22314d05")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -1542,7 +1542,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d282493a-daa5-462c-a99f-4d34c626d6bc")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1785,7 +1785,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d29f045e-0183-4f93-8f51-ebd9565ac77f")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2028,7 +2028,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d9dd6f1d-3110-4474-8528-4966a9c4e684")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -11.90625 -9.525)
 			(end 11.90625 -9.525)
@@ -2280,7 +2280,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/1ab46847-db39-4b1e-82e4-c469984394ea")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2523,7 +2523,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/53187173-8abd-4c74-8ba2-a00767408fab")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2766,7 +2766,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/da3e73dc-c4ac-470f-952d-bfd7f41ef093")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3009,7 +3009,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d0d354bf-c29c-48f3-af32-f59c00150b6a")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3252,7 +3252,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/f1603cbe-05d6-4b9f-a454-230e41e7cc4c")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3495,7 +3495,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/60f365be-ccc3-43a8-a3bd-89e5f14ad24c")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3738,7 +3738,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/261cb224-23c4-4e4c-bf35-7391197f0eb1")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3981,7 +3981,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/45532ebe-0fc2-4e06-923d-6dc50d659cb7")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4224,7 +4224,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/ad8d0e84-edd9-4eed-a641-7662127722c3")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4467,7 +4467,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/f5d040d6-ed74-4cec-8492-195a7f56c0ab")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -16.66875 -9.525)
 			(end 16.66875 -9.525)
@@ -4710,7 +4710,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/6dd464d4-db04-4e12-bedf-10f0c78b322e")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4953,7 +4953,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/8dc4bda2-4968-4974-9d55-d3ba10b29291")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -5196,7 +5196,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/e2d2b150-996c-4dd7-b806-ec8b69d091b3")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -5439,7 +5439,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/594643fe-fe2a-4773-9d67-f68594a31e1d")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -6780,7 +6780,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/6083377a-bcd4-4739-b4c2-3c5334fd4136")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7023,7 +7023,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/cf6304a5-c3ea-4652-af55-00040b6bd4a7")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7266,7 +7266,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/3de13293-d51f-406e-9a39-205fda571634")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7509,7 +7509,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/0e565ac3-243d-4622-88f5-288cc7792aee")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7752,7 +7752,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/1efcf676-ca95-48c5-952f-854935965f03")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7995,7 +7995,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/e30461cb-2f55-4ae4-b496-2d02116eb360")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -8238,7 +8238,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/295c59b4-2db5-423c-b008-a279274bf7e3")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -8481,7 +8481,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/46afabc3-3d79-4ed1-b6a9-f95ba90f7957")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -8724,7 +8724,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/41783777-f9ac-4dfe-b698-768621e9cafd")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -8967,7 +8967,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/97a2dd44-b769-4989-b170-cd934465661f")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -9210,7 +9210,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/674fd6c1-d8c9-4b24-89f2-4a0d67500cfe")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -9453,7 +9453,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/c40f960b-23b8-4706-9a1d-bd1eeed52425")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -9696,7 +9696,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/7ea0fcf2-7157-497f-9cb2-13f60a0a0ff8")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -21.43125 -9.525)
 			(end 21.43125 -9.525)
@@ -9967,7 +9967,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/1a425c19-d313-4e27-a7ab-f8dec0080b99")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10210,7 +10210,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/c39fee69-845e-4bda-aa43-ea3d7d351cad")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10453,7 +10453,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d47ac68e-4e10-443d-b916-d8b9132f5ad9")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10696,7 +10696,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/9b0ba3aa-c2ce-49f7-9278-9f446f24f45a")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10939,7 +10939,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/83a3fd34-dec1-49d1-bd35-5df4a5fbfdf9")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11182,7 +11182,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/0319a0bc-4291-4005-abb8-a86a328b5813")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11425,7 +11425,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/3c086297-67ea-4022-a84d-651668c03687")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11668,7 +11668,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d7be00e9-82a3-4f30-8114-7f7bc133042f")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11911,7 +11911,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/0b2425e5-6384-4f7a-b4de-6dc760e20fdd")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -12154,7 +12154,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/a9a6a206-0171-40e2-ae68-c690e0c8884b")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -12397,7 +12397,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/6b33ec2f-c8f7-4b11-83d4-c8e707587726")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -12640,7 +12640,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/00b11228-4d2f-4d31-bf3f-63730030d080")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -12883,7 +12883,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/1d803d71-8c47-4282-96b6-46f00d20fd15")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -13126,7 +13126,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/014dc84f-6e0f-4386-8e3e-bba46879642e")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -13391,7 +13391,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/5c7164bd-bd5a-40b2-9c4d-0eeb9a3a6d1f")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -13634,7 +13634,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/8031bd1e-6d52-494c-a567-080b32fa302f")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -13877,7 +13877,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/7dd56df5-b70d-4aea-ab92-725a25e61394")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -14120,7 +14120,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/3d23bd0c-6728-4998-9b79-7ab9f6f2c852")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -14363,7 +14363,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/ca6b4f4c-2c2e-4ab3-b018-8f0b5ead7b60")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -14606,7 +14606,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/7cc2708f-a60e-478b-80a4-cce815d56cd2")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -14849,7 +14849,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/6e0c0e23-3f9a-4879-aca1-7ea977ac87ea")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -15092,7 +15092,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/48ec7f5c-9bae-4883-ab92-edfe8e927917")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -15335,7 +15335,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/1fcdc71e-3473-417e-b927-9cff69c23c22")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -15578,7 +15578,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/ddd946b0-66ac-4b13-b55a-b0227c08f759")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -21.43125 -9.525)
 			(end 21.43125 -9.525)
@@ -15849,7 +15849,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/7feae008-deeb-4d86-a30e-a87641f52205")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -66.675 -9.525)
 			(end 66.675 -9.525)
@@ -16120,7 +16120,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/29cceed2-9848-4e63-82f4-4cf8af6c206f")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -16363,7 +16363,7 @@
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/ef4f9890-dbc8-4c94-8b6e-500196ab54fb")
 		(sheetname "Switch Matrix")
 		(sheetfile "Swtich Matrix.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -16817,9 +16817,10 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Reset"
+		(property "Value" "TL3342F450QG"
 			(at -5.22 -0.02 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "56fe4f1e-0830-45ce-81fc-e379cb711dcf")
 			(effects
 				(font
@@ -16853,16 +16854,16 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 -90)
+		(property "Description" "Reset"
+			(at -5.936 0.008 0)
 			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
+			(layer "B.SilkS")
 			(uuid "8efaa255-13c3-40cd-9638-2dd892bdc712")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify mirror)
 			)
 		)
 		(path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/927f9965-d472-4f71-b8e3-aaa670f982bb")
@@ -17399,7 +17400,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "a52f8695-3f3e-4327-9978-e738ec9f4dbc")
@@ -17447,7 +17448,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/38c6ae37-6c4e-4593-96dc-64fe66619890")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -17692,7 +17696,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "11eb59b4-fb16-4f8e-b153-7dbc577060b1")
@@ -17906,7 +17910,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "6f13ebc8-40e8-4f60-8305-2e3570a4bd4d")
@@ -17954,7 +17958,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/2b1664ca-3db1-4d76-bcab-e59f2ba1e8df")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -18245,7 +18252,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/2ab170af-2854-429c-b0cd-680bd3ead3d6")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -18418,7 +18428,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "9068c774-6c6f-4cd6-96f1-671b35d8b731")
@@ -18466,7 +18476,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d857505d-d3b0-405a-9e03-b0141f58debf")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -18757,7 +18770,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/f09c7bbf-b5a6-40f6-816b-6aec7b69fb44")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -18930,7 +18946,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "6e5bb0d1-2362-4cd3-a5fc-4bc7bb83b7e4")
@@ -18978,7 +18994,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/3f3db203-c631-4504-aff5-79f6027c967b")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -19223,7 +19242,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "9ae832c0-01bb-4890-a0ad-68d350d77c90")
@@ -19271,7 +19290,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/2ea42722-1669-4754-b417-5f9e940e1827")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -19516,7 +19538,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "8c412f01-bba7-48e8-b847-df07ecccd1d3")
@@ -19730,7 +19752,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "89e2d382-93e0-443d-b492-7c334693cbaa")
@@ -19778,7 +19800,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/b4014b11-7ce6-4d89-821b-f1e1d90ce82d")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -20237,7 +20262,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "cb918ce0-b015-4d71-90eb-b4b98f5286e4")
@@ -20285,7 +20310,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/71b88976-b10f-4ad4-8aa4-62e51a3c4aa7")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -20744,7 +20772,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "e93ca7c6-0c53-462c-8351-48336efe6db4")
@@ -20792,7 +20820,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/dc01c569-e2b0-4bd2-b1ac-e2bcee3b555a")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -21037,7 +21068,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "06ac9675-a2ca-4146-9527-ae6b36c6b31c")
@@ -21085,7 +21116,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/e32f857e-09fd-43a2-8f70-e51a0eea6340")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -21330,7 +21364,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "fe98897e-19da-4293-b75e-59fc03fd1c77")
@@ -21590,7 +21624,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/9f663da3-c1ce-479b-b9c4-002e46c49976")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -21763,7 +21800,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "3c44e781-1190-4e9e-8bbc-c825cbc80c09")
@@ -21977,7 +22014,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "c4eec24a-7e86-4a54-9eda-78583d733cc8")
@@ -22025,7 +22062,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/3bc26ba0-7750-4330-bfae-8739e5e32d8a")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -22270,7 +22310,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "5a356d20-2692-4c03-ae41-ca8d6161e1da")
@@ -22318,7 +22358,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/92692a5a-4d19-456e-b8d6-d760df8f371e")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -22777,7 +22820,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "b0196d8a-9031-4149-84dc-f3fc3e774f0b")
@@ -22825,7 +22868,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/f610758c-47aa-4f74-bce6-321f8405f261")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -23284,7 +23330,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "7830c0c5-f425-401a-9c42-068a89b2c0af")
@@ -23332,7 +23378,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d5f8f9e7-823c-4cdb-86ff-37264b9c0f59")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -23837,7 +23886,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/f33f930b-beb7-480e-b6f3-47c09c2077da")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -24010,7 +24062,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "63d59876-2e5a-4135-ab1c-1b21684c67c2")
@@ -24058,7 +24110,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/6771baef-b53e-40a8-aba7-2002a651a423")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -24349,7 +24404,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/8b65e9c3-2d49-462b-a3c4-190157656c7d")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -24522,7 +24580,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "48cf23a8-01a5-467a-955e-433b42cdf6a3")
@@ -24570,7 +24628,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/e8b51575-a97c-4094-83ad-3a11a408507b")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -24860,6 +24921,8 @@
 			)
 		)
 		(path "/9e40d895-a947-4b33-a248-0d0dda788e56/f18511fe-511e-4722-a2e1-5c95a87942f4")
+		(sheetname "USB & Power")
+		(sheetfile "USBnPower.kicad_sch")
 		(solder_mask_margin 0.05)
 		(solder_paste_margin 0.05)
 		(clearance 0.05)
@@ -25193,7 +25256,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "0bd3d0a3-f8fc-440b-85bc-6bf20d28b757")
@@ -25241,7 +25304,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/b978a2fe-95fb-4ec4-b841-d2fb4530ae54")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -26652,7 +26718,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "db38d15c-ff78-4057-b83e-96e16c71ecfe")
@@ -26700,7 +26766,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/0bb73d58-11e0-48ec-83cb-9f09fa8137a0")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -26945,7 +27014,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "c9e5646f-7a75-4f47-934b-54acb2eb592f")
@@ -26993,7 +27062,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/fab19071-afd9-448f-a864-c9073574e86f")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -27238,7 +27310,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "a16a0d59-2af1-4301-a06e-ac29192237a4")
@@ -27286,7 +27358,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/8389a281-90d8-4d7f-a775-3df3ca56458a")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -27531,7 +27606,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "a1ebb81a-5a70-4ccb-880e-6fe3a3cd95db")
@@ -28005,7 +28080,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/edb2bcc4-7c55-4837-9b64-42480408b8f8")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -28224,7 +28302,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/21bea573-7b99-450a-8db7-9f556434cbb1")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -28912,7 +28993,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "8e5fd223-681f-48f7-b582-3eedb1cde767")
@@ -28960,7 +29041,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/7c2c6aab-e206-46d9-bf24-9c663be5f80f")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -29205,7 +29289,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "971db8e1-f6e5-4fe2-bb54-e0c8835e262f")
@@ -29253,7 +29337,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/2e2b9e16-2ae3-425f-94a2-f4e9c84b4aeb")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -29498,7 +29585,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "1dd6f645-e95d-4d5d-bcf9-98ccf3a4f9db")
@@ -29546,7 +29633,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/5ab8ecec-e5b5-4e55-906d-4cfa03eebf51")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -30219,7 +30309,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "e0e1ca09-86a2-4a1e-91c7-9e30fee9ab8c")
@@ -30433,7 +30523,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "281e7fe7-bee6-4151-9306-a967438ba8ad")
@@ -30481,7 +30571,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/49a828ae-3f98-4bd8-bef9-14a992299c68")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -30986,7 +31079,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/497006e5-eeab-4860-a851-5f1a7cf579c0")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -31205,7 +31301,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/2b2f4c53-a036-403c-b827-312efcbb6d84")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -31378,7 +31477,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "8343939a-fdcd-4c68-9b32-9e89db213643")
@@ -31426,7 +31525,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/25eebdb6-5cfd-401a-a477-c6a6b64d0669")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -31671,7 +31773,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "cb0b1dc3-0f7c-4a52-b813-e7e6fe5c3412")
@@ -31719,7 +31821,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d444b721-3b3c-454e-b8c5-7e28e8a919cc")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -31964,7 +32069,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "6e92460c-e7b9-43de-a4ec-cae99d48b11f")
@@ -32012,7 +32117,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/3f37e84f-74a3-4a28-beb3-c42e355ae6cd")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -32257,7 +32365,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "457ed31b-7ae4-45e8-911a-20664c56c008")
@@ -32305,7 +32413,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/98c4da43-f42c-489f-9001-8b56b9363a19")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -32550,7 +32661,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "35153efb-e3a3-4c6d-8a91-a7ba8a9d2bd0")
@@ -32598,7 +32709,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/dbf23af9-9072-4762-a411-e4bf6d1b27d7")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -32843,9 +32957,10 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Boot"
+		(property "Value" "TL3342F450QG"
 			(at 0 -3.56 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "6ece038e-c96e-41f8-807f-81e032063c07")
 			(effects
 				(font
@@ -32879,16 +32994,16 @@
 				)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 180)
+		(property "Description" "Boot"
+			(at -0.237 -3.572 0)
 			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
+			(layer "B.SilkS")
 			(uuid "f9f432b4-d764-40e9-a965-7adb283f673f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify mirror)
 			)
 		)
 		(path "/8988eb5c-d40f-430f-b968-d5d8451d34b8/b7af517c-40fd-410a-ad3f-c069e7e42a68")
@@ -33425,7 +33540,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "f6356bfd-8208-4fb8-95b8-9ac94a496c2b")
@@ -33473,7 +33588,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/b9af22b2-f9d1-4141-8aee-f5f577161b19")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -33718,7 +33836,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "b8e4df08-53e8-4b96-9aa8-788032a8f4d4")
@@ -33766,7 +33884,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/63c0ad8f-be65-4736-8f03-49aca7be8a13")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -34535,7 +34656,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "b6640704-dfd7-4dbc-a420-11392e117377")
@@ -34583,7 +34704,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/1e37c49b-774b-4101-9e75-de714d0b23d0")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -34828,7 +34952,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "eed246fa-a4e9-44ee-8f71-f14402979a5e")
@@ -34876,7 +35000,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/8a33c2bb-d980-4ccf-806a-0ed64ccfe4b6")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -35335,7 +35462,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "7fa5f7c6-644f-45e0-af77-fd8849e831b5")
@@ -35383,7 +35510,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/7f8aba88-d66c-4845-9e8e-2316299ac597")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -35628,7 +35758,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 0)
 			(layer "B.Fab")
 			(uuid "f4edeaa1-4cc0-4360-b5b4-a3eea7e42791")
@@ -36056,7 +36186,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "af84d50d-9a89-48fa-bb0e-736810bacf85")
@@ -36104,7 +36234,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/76b70f50-cdc9-44a8-976a-89b8d7e76a47")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -36349,7 +36482,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "21349b44-55aa-4bc9-acdf-554adf963ce7")
@@ -36397,7 +36530,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/f1155741-600d-4de0-b585-8f872a2f8ad2")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -36642,7 +36778,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "a2550ac2-6900-43dd-a328-ba3947e8f065")
@@ -36690,7 +36826,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/a896c208-ad3c-49cb-bce8-0d481f1d481c")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -36981,7 +37120,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/1cefe88c-15e8-4d9e-bf0b-c50ff5ee37a9")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -37154,7 +37296,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "c3d15c0e-5b01-4d1f-80cc-619028fd32a7")
@@ -37202,7 +37344,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/ec45f160-ed5f-4a6f-8dbb-fa1b1ff7a7c9")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -37689,7 +37834,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "76657c61-8d25-4834-beff-894a7cbc2bd8")
@@ -37737,7 +37882,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/4d7c0657-054e-4c8f-b3aa-591845d6b46d")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -38254,7 +38402,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "b2b1716e-5dc0-4f72-b5fc-a1dc6b5cc091")
@@ -38302,7 +38450,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/9e2672b1-aed7-4f86-8b4f-36418383b4f4")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -38547,7 +38698,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "afcd4d04-a13e-40df-88a6-c0782fadb297")
@@ -38595,7 +38746,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/5515d79e-4297-4042-9f6c-6a9ef2377e1b")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -38840,7 +38994,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "37b5838e-fe1a-4f08-a534-77314f359cc7")
@@ -38888,7 +39042,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/92b08124-d1c8-4ff4-8b8d-1b1dc2226cd1")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -39133,7 +39290,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "b7212643-1cc3-42ef-8cb6-4108c21fae4c")
@@ -39181,7 +39338,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/a507d3ee-213c-48a3-896f-7a34aa728918")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -39426,7 +39586,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "a938c529-6b15-47f4-b4bb-c9194bedcfbc")
@@ -39474,7 +39634,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/b0467df8-20b9-44b2-8e6b-baff50952c0a")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -39719,7 +39882,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "f23268da-3c0d-4bc4-b70d-c5259e6b9a5b")
@@ -39767,7 +39930,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/23f52707-830e-4a05-aadf-44e7cada2de5")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -40012,7 +40178,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "ad21b40a-9e87-45a1-a6d8-b47bc065f837")
@@ -40060,7 +40226,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/e348d8b5-1f9c-49f1-a9d1-872cc35a24f3")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -40561,7 +40730,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "e375ed6e-0800-4cc3-9727-a8040b40f5ea")
@@ -40609,7 +40778,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/2986c16d-afb1-4536-84d4-f8bb9bf5b98a")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -40900,7 +41072,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/6349d8c5-847b-4d82-8f76-3d96d91d1e70")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -41119,7 +41294,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/3684aa74-a655-4a24-8f6e-5a7eb37d0b96")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -41292,7 +41470,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "741c7683-3bae-409a-9892-56e6e403877d")
@@ -41340,7 +41518,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/4f642aec-7575-4dd1-b6d0-75bdab5360db")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -41585,7 +41766,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "47f8e668-273a-44f0-a487-9421f049d27f")
@@ -41799,7 +41980,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "4a72c9e9-ec57-4550-a87f-0fe9d547fc9c")
@@ -41847,7 +42028,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/746443c0-06ce-41d2-9ed6-b14c17bac75e")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -42138,7 +42322,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/c3b8222a-7310-4257-945c-e6031926e7aa")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -42311,7 +42498,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "e0323b3f-73c2-4543-83ec-5a50d2f8cd8c")
@@ -42359,7 +42546,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/c53ab426-c9a7-4ea0-b1b7-0b0c5058ad9f")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -42604,7 +42794,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "e2ae922b-68cb-4c9c-b9f3-26c5d6532778")
@@ -42652,7 +42842,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/f826062d-4a23-4100-9970-6889aed74c7b")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -42897,7 +43090,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 90)
 			(layer "B.Fab")
 			(uuid "cf686d81-9f88-4310-8cca-09c4155d1a81")
@@ -43157,7 +43350,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/cdbec884-d52e-4982-b236-25d1f2dc27e4")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -43330,7 +43526,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "05ea00b8-5b60-47c7-a459-06dd959c04e8")
@@ -43378,7 +43574,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/60bb8c98-57c6-4a27-9ad8-2c00c654fc02")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -43623,7 +43822,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "03cea733-39d5-4a67-85b8-eb0088380ef0")
@@ -43671,7 +43870,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/0a6f8200-7254-4283-b5ac-912087dd58dc")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -43916,7 +44118,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "5cb3bae4-c8f1-4af4-b44c-b2c76c2d1a9f")
@@ -43964,7 +44166,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/76e5a08a-0b09-422f-ada1-582bb5f81de0")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -44255,7 +44460,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/eae53bb2-c964-4f93-ad22-ddd85aebcd1f")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -44642,7 +44850,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "aa0dfa19-481b-4779-942a-800d22c032e9")
@@ -44690,7 +44898,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/69609e20-8503-4bc2-b23a-4bbe011c359a")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -44935,7 +45146,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "f05162d8-365d-4069-bc1f-476ba6ad02d2")
@@ -44983,7 +45194,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/9bbc2c81-f059-4c54-a620-8cae67b71db4")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -45595,7 +45809,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "19de2032-a2e7-485b-b641-813475aa0283")
@@ -45643,7 +45857,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/4fc96c81-4f9a-483e-aafb-56f8db25da4b")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -46102,7 +46319,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "8468c0d7-a9de-4739-86f0-93b0b75b6c43")
@@ -46150,7 +46367,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/d5c7284a-be02-4742-a8a9-db08d6d69304")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -46395,7 +46615,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "c48b399b-3c34-4473-a351-b7f69bcef470")
@@ -46443,7 +46663,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/115fced6-6d17-487c-a539-ee560454ad36")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -46902,7 +47125,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" ".1u"
+		(property "Value" "100n"
 			(at 0 -1.16 135)
 			(layer "B.Fab")
 			(uuid "88000859-78d2-4c43-bac7-0b3d749f1368")
@@ -47116,7 +47339,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "a7b08d0b-89db-4623-a801-125bdffd6cf4")
@@ -47164,7 +47387,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/99b9fa31-7d66-409b-a2dc-bfd2e2e86f11")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -47409,7 +47635,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "fe72cb0c-5a96-49ab-8d56-ffe16da15b65")
@@ -47457,7 +47683,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/10058478-a6c2-4792-a909-7cd6eecc1e82")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -47916,7 +48145,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "97e84289-a8af-4a68-920c-44aacaa79958")
@@ -47964,7 +48193,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/a0e4e058-6901-4b8d-901c-c7fd46dd9b2f")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -48255,7 +48487,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "LED*SK6812MINI*PLCC*3.5x3.5mm*P1.75mm*")
 		(path "/4eb096de-f3a2-4165-be7d-6a3944b02fe7/1c0e3c6c-2761-4a64-b11d-645b6c761914")
+		(sheetname "Misc")
+		(sheetfile "Misc.kicad_sch")
 		(attr smd)
 		(fp_poly
 			(pts
@@ -48642,7 +48877,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 0 -2.1 90)
 			(layer "B.Fab")
 			(uuid "842bd17f-7068-4d06-bca0-7fe615450ffe")
@@ -48690,7 +48925,10 @@
 				)
 			)
 		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a4358792-fb65-4f7e-967e-aa66e21be627/13678abf-b497-49ba-b8de-f18a40f71497")
+		(sheetname "Switch Matrix")
+		(sheetfile "Swtich Matrix.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 1.65 -1)
@@ -68464,7 +68702,7 @@
 				(xy 291.037899 50.894302) (xy 291.200664 50.948236) (xy 291.220756 50.950288) (xy 291.30112 50.9585)
 				(xy 291.301128 50.9585) (xy 292.14888 50.9585) (xy 292.221936 50.951035) (xy 292.249336 50.948236)
 				(xy 292.412101 50.894302) (xy 292.55804 50.804285) (xy 292.679285 50.68304) (xy 292.769302 50.537101)
-				(xy 292.823236 50.374336) (xy 292.830439 50.303833) (xy 292.8335 50.27388) (xy 292.8335 49.726119)
+				(xy 292.823236 50.374336) (xy 292.829398 50.314026) (xy 292.8335 50.27388) (xy 292.8335 49.726119)
 				(xy 292.823236 49.625666) (xy 292.823236 49.625664) (xy 292.769302 49.462899) (xy 292.679285 49.31696)
 				(xy 292.679284 49.316959) (xy 292.679279 49.316953) (xy 292.558046 49.19572) (xy 292.558038 49.195713)
 				(xy 292.418352 49.109553) (xy 292.370875 49.056767) (xy 292.3585 49.002313) (xy 292.3585 46.6725)
