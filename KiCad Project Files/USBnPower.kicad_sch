@@ -2738,7 +2738,7 @@
 		(at 44.45 49.53 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "053f8b02-5d46-4f7e-8c5d-716962195fbd")
@@ -3335,7 +3335,7 @@
 		(at 44.45 34.29 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "3ce4cb37-9916-40cd-aeef-d159741984d1")
@@ -3681,7 +3681,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SM04B"
+		(property "Value" "SM04B-SRSS-TB(LF)(SN)"
 			(at 72.39 41.9099 0)
 			(effects
 				(font
@@ -4816,7 +4816,7 @@
 		(at 36.83 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
