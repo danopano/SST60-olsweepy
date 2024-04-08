@@ -1,7 +1,7 @@
 # SST60-olsweepy
-This repo is a fork and mod of dededecline/SST60! Below renders are from his original design.
-The provided production files cover daughterboard variants with and without fl3ex cuts.
-Kicad 8.0 is recommended, with the JLC PCB plugin installed.
+This repo is a fork and mod of dededecline/SST60! Below renders are from his original design.  
+The provided production files cover daughterboard variants with and without flex cuts.  
+Kicad 8.0 is recommended, with the JLC PCB plugin installed.  
 
 ## Fully open source multi-layout 60% PCB
 ![Render1](https://github.com/dededecline/SST60/blob/main/Images/Render-Top.png)
